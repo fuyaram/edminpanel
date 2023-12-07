@@ -1,3 +1,8 @@
+
+![Uploading adminpenal.jpg…]()
+
+![adminpenal1](https://github.com/fuyaram/edminpanel/assets/143484868/50e0c483-9001-435c-8ae8-c72735a79098)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
